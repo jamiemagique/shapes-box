@@ -29,7 +29,7 @@ const ShapesList: FC = () => {
     };
 
     fetchShapes();
-  }, []);
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   if (loading) {
     return (
