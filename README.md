@@ -7,7 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Requirements
 
 - [Node & npm](https://nodejs.org/en/download/)
-- API key for the [TMDb API](https://www.themoviedb.org/account/signup)
 
 Before you can run the app you'll need to add the following environment variables:
 
